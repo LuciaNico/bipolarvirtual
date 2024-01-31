@@ -1,26 +1,28 @@
 ---
-title: "My First post"
+title: "Sexuality and Bipolar Disorder"
 author: "Bipolar Risk"
-date: "2023-12-12"
-categories: [goals,general]
+date: "2024-01-31"
+categories: [sexuality,general]
 ---
 
-This is an example first post. Whatever you write here will appear inside your post.
+In the [Bipolar Commission report](https://www.bipolaruk.org/Handlers/Download.ashx?IDMF=d4fd68a7-ffae-42bb-acf4-f7be3d903f02), it was communicated that 64% of women reported having periods of hypersexuality, sometimes associated with experiences of “sexual assaults, unplanned children, vulnerability to sexually transmitted diseases, upsetting abortions, and relationships and marriage breakups as a result” (Bipolar UK, 2022, page 29). 
 
-It is possible to write lists:
+The authors called for the need for more research in this area, something that is well aligned with [our goals](https://lucianico.github.io/bipolarvirtual/). 
 
-1.  One
-2.  Two
-3.  Three
+  
+To contribute to our understanding of the relationship between sexuality and bipolar disorder, we want to draw your attention to two recently published qualitative studies, one from Denmark and one from Iran. 
 
-And make headers
+  
 
-## This is a second level heading
+The first one [(Krogh et al., 2023)](https://journalbipolardisorders.springeropen.com/articles/10.1186/s40345-023-00285-9) is focused on increasing our understanding of how sexual health and function in individuals with BD may be related to their disease and everyday life, including relationships. 
+The second one [(Yaghmaei et al., 2023)](https://onlinelibrary.wiley.com/doi/10.1111/bdi.13369) addresses the issue with a focus on the experience of families of people with bipolar disorder, the “unheard voices”. 
 
-You can include images, and many other kinds of content.
+  
+Regardless of the study participants' cultural differences, both studies complement each other, opening a window to appreciate the nuances and complexities of the topic of sexuality in the context of bipolar disorders. 
 
-If you are using the visual editor in Rstudio you can drag images onto the editor to insert them into the document. Otherwise, you need to place the image inside of the folder for this post, and then you can insert it to your post directly, like this:
+  
+It is clear that this is an area screaming for concrete resources to improve prevention and reduce serious risks associated with these serious behaviours. 
 
-![](thumbnail.jpg)
+ 
+![](atardecer2.jpg)
 
-The first image in a blog post will also be used on the listings page.
