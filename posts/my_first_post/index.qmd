@@ -1,7 +1,7 @@
 ---
 title: "Sexuality and Bipolar Disorder"
 author: "Bipolar Risk"
-date: "2024-01-31"
+date: "2024-02-05"
 categories: [sexuality,general]
 ---
 
