@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Bipolar Risk - Homepage</title>
+<title>Bipolar Risk - The Experience of Serious Risk-Taking Behaviors in Bipolar Disorders</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -112,7 +112,6 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
   <ul>
   <li><a href="#who-we-are" id="toc-who-we-are" class="nav-link active" data-scroll-target="#who-we-are">Who we are?</a></li>
-  <li><a href="#announcements" id="toc-announcements" class="nav-link" data-scroll-target="#announcements">Announcements</a></li>
   </ul>
 </nav>
     </div>
@@ -123,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
   rounded " style="width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Homepage</h1>
+<h1 class="title">The Experience of Serious Risk-Taking Behaviors in Bipolar Disorders</h1>
 </div>
 <div class="quarto-title-meta">
   </div>
@@ -143,23 +142,6 @@ ul.task-list li input[type="checkbox"] {
 <p>Guillermo Perez Algorta has been leading on this line of research on the topic of risk behavior management in daily life in people with a diagnosis of bipolar disorder.</p>
 <p>David Dinham, lives with Bipolar, is researching mental health peer support as part of his PhD and used to lead a bipolar membership organisation, Bipolar Edinburgh.</p>
 <p>Professor Emmanuel Tsekleves leads Design for Global Health at Imagination Lancaster, Lancaster University. Driven by the UN’s Sustainable Development Goals, his research focuses on tackling community health challenges across the world.</p>
-</section>
-<section id="announcements" class="level1">
-<h1>Announcements</h1>
-```html
-<ul>
-{{ range $announcement := .Data.announcements }}
-<li>
-<h2 data-anchor-id="announcements">
-{{ $announcement.title }}
-</h2>
-<p>
-{{ $announcement.content }}
-</p>
-<small> {{ if $announcement.date }}Posted on {{ $announcement.date }}. {{ end }} {{ if $announcement.author }}By {{ $announcement.author }}. {{ end }} </small>
-</li>
-{{ end }}
-</ul>
 <hr>
 <blockquote class="blockquote">
 <p>This project has been supported by Lancaster University Research Catalyst Fund (2022/2023)</p>
