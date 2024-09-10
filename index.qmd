@@ -6,8 +6,10 @@ image-shape: round
 image-width: 15em
 ---
 
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
+<meta http-equiv='cache-control' content='no-cache'>
+
+<meta http-equiv='expires' content='0'>
+
 <meta http-equiv='pragma' content='no-cache'>
 
 With this project we aim to:
@@ -25,7 +27,6 @@ Guillermo Perez Algorta has been leading on this line of research on the topic o
 David Dinham, lives with Bipolar, is researching mental health peer support as part of his PhD and used to lead a bipolar membership organisation, Bipolar Edinburgh.
 
 Professor Emmanuel Tsekleves leads Design for Global Health at Imagination Lancaster, Lancaster University. Driven by the UN’s Sustainable Development Goals, his research focuses on tackling community health challenges across the world.
-
 
 ------------------------------------------------------------------------
 
