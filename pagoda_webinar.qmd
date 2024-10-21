@@ -1,0 +1,25 @@
+---
+title: "Pagoda Webinar"
+author: DD & GPA
+date: 2024-10-21
+institute: BP Risk
+format: 
+  revealjs:
+    transition: none
+    slide-number: true
+    width: 1600
+    height: 900
+    chalkboard: true
+    pdfPage: true
+    footer: "[Bipolar Risk](https://lucianico.github.io/bipolarvirtual/)"
+include-in-header: header.html
+bibliography: references.bib 
+---
+
+## Slide 1
+
+For resources about creating slides in Quarto see: <https://quarto.org/docs/presentations/>
+
+## Slide 2
+
+Etc. etc.
