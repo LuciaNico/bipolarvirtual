@@ -16,12 +16,58 @@ include-in-header: header.html
 bibliography: references.bib 
 ---
 
-## Slide 1
+# Slide 1
 
 For resources about creating slides in Quarto see: <https://quarto.org/docs/presentations/>
 
-## Slide 2
+# Introduction
 
-Adding some content.
-Second test, now from right local folder.
-Adding a third line to test pull. 
+**Bipolar Disorder (BD):** - Affects millions worldwide - Causes intense mood swings - Leads to risky behaviors @americanpsychiatricassociation2013 @goodwin2007
+
+# Problem Statement
+
+**Risky Behaviors in BD:** - Substance misuse - Financial recklessness - Result: Prolonged mood issues and life-threatening situations @solomon2010
+
+**Current Interventions:** - Focus mainly on mood regulation - Gap: Directly addressing risky behaviors @bipolar2020
+
+# Role of Community Support Groups
+
+\- Key role in implementing activities
+
+\- Asset-based approach
+
+\- Empower participants despite BD challenges
+
+\- Inclusive learning, communication, and shared experiences
+
+# Co-Design Approach
+
+**Importance of Co-Design:**
+
+\- Incorporate lived expertise of individuals with BD
+
+\- Combine clinical and research perspectives
+
+\- Create resonant solutions with those they aim to benefit
+
+\- Commitment to holistic and impactful solutions
+
+# Phygital Space
+
+\- Inspired by community allotments and gardens
+
+\- Combines physical and online environments
+
+\- Fosters collaboration, inquiry, and knowledge exchange
+
+# Goals
+
+**Transforming the Narrative:**
+
+\- Emphasize simple understanding of risk
+
+\- Integrate personal values
+
+\- Leverage community support groups
+
+\- Empower individuals to manage behaviors
