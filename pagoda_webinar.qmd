@@ -22,4 +22,4 @@ For resources about creating slides in Quarto see: <https://quarto.org/docs/pres
 
 ## Slide 2
 
-Etc. etc.
+Adding some content.
