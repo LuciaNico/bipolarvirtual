@@ -100,6 +100,44 @@ Finally, the kit must be integrated into daily life. This stage focuses on helpi
 
 \- Fosters collaboration, inquiry, and knowledge exchange
 
+# Self Identity (**Shinbashira)**
+
+This is a summary of two papers with different points of view re identify in BD \[think if we want to create some slides around these ideas\].
+
+Carls-Diamante’s Taxonomy (2023) @carls-diamante2023 - "Know Thyself: Bipolar Disorder and Self-Concept”:
+
+Carls-Diamante introduces a taxonomy to conceptualise the relationship between bipolar disorder (BD) and self-concept. The taxonomy aims to clarify how individuals with BD might perceive the influence of the condition on their personality, behavior, and self-concept. The taxonomy identifies four possible relationships between BD and the self, emphasizing that these categories are not fixed and can change over time:
+
+1.  BD contributes to the self: In this view, BD is seen as contributing certain traits to an individual’s self-concept. For instance, certain aspects of creativity, energy, or emotional intensity during manic phases may be attributed to BD and are considered part of the person's authentic self.
+
+2.  BD scaffolds the self: Here, BD is thought to shape or scaffold the development of the self. Certain traits or cognitive patterns influenced by BD, such as creativity or ambition, guide the individual's personal development, although other aspects of the self remain independent of BD.
+
+3.  BD gradually becomes part of the self: In this relationship, BD increasingly integrates into an individual’s self-concept over time, especially when symptoms are severe or frequent. Individuals may begin to feel that BD and its associated traits are inseparable from their identity.
+
+4.  BD is not part of the real self: In this case, BD is viewed as something external or separate from the individual’s core identity. The person might view BD as a disorder they manage but not as a fundamental part of who they are.
+
+Carls-Diamante emphasizes that these categories help individuals reflect on how BD affects their self-concept, with the goal of resolving "self-illness ambiguity" (SIA)—the confusion about whether certain behaviors or traits stem from the self or the disorder.
+
+de Haan’s Response (2023) @dehaan2023 - "What Do My Problems Say About Me?”:
+
+de Haan critiques Carls-Diamante's taxonomy, offering an alternative view based on an enactive approach to psychiatry. This approach emphasizes sense-making as a dynamic process shaped by interaction with the world, rather than focusing on static categories of self-concept. de Haan presents key points of divergence from Carls-Diamante’s framework:
+
+1.  Criticism of the Essentialist Approach: de Haan argues that Carls-Diamante’s taxonomy assumes an essentialist view of mental disorders, suggesting that BD is something that can be clearly delineated from the self. de Haan proposes instead that the relationship between self and disorder is more fluid and intertwined, and the focus should be on how individuals make sense of their experiences.
+
+2.  Relational Nature of Self-Knowledge: Contrary to Carls-Diamante's emphasis on self-reflection to resolve SIA, de Haan posits that knowing oneself is not purely an individual task. Instead, it is a relational and practical process that involves engaging with others, such as family members or therapists. Self-knowledge, de Haan argues, is best understood through social interactions and material practices rather than through introspection alone.
+
+3.  Two Types of Self-Illness Ambiguity: de Haan distinguishes between two forms of SIA: experiential SIA (the ambiguity related to interpreting specific experiences, such as "Is this behavior a result of BD or just me?") and existential SIA (the broader, long-term question of how to live in accordance with one's values while managing vulnerabilities like BD). She criticizes Carls-Diamante for focusing more on the conceptual side of SIA rather than recognizing these distinctions.
+
+4.  Enactive Approach to Mental Health: de Haan's enactive approach suggests that psychiatric problems arise when one’s patterns of sense-making become rigid and inflexible, and the challenge lies in developing more flexible, adaptive ways of interpreting experiences. She argues that Carls-Diamante’s taxonomy may oversimplify the complexity of how BD affects self-concept by focusing too much on categorization.
+
+Key Differences:
+
+-   Focus on Reflection vs. Interaction: Carls-Diamante emphasizes individual reflection to resolve ambiguity about BD’s role in self-concept, while de Haan insists that self-knowledge is a relational process shaped by interactions with others and cannot be achieved through introspection alone.
+
+-   Approach to Self-Illness Ambiguity: Carls-Diamante’s taxonomy aims to help individuals classify how BD fits into their self-concept. In contrast, de Haan focuses on how sense-making can become rigid, and advocates for a more dynamic, relational process to deal with SIA.
+
+-   Essentialism vs. Enactivism: Carls-Diamante’s model assumes BD can be somewhat isolated as a contributing or scaffolding factor to the self, while de Haan critiques this, proposing that mental disorders and self-concept are deeply intertwined in a complex, enactive system of meaning-making.
+
 # Goals
 
 **Transforming the Narrative:**
