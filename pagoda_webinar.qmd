@@ -22,23 +22,39 @@ For resources about creating slides in Quarto see: <https://quarto.org/docs/pres
 
 # Introduction
 
-**Bipolar Disorder (BD):** - Affects millions worldwide - Causes intense mood swings - Leads to risky behaviors @americanpsychiatricassociation2013 @goodwin2007
+People with Bipolar Disorder (BD) face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, and financial recklessness.
+
+These behaviours often mirror the sudden and powerful impact of natural disasters like earthquakes, leaving individuals and their families dealing with severe consequences, such as legal issues, mental health crises, and strained relationships.
 
 # Problem Statement
 
-**Risky Behaviors in BD:** - Substance misuse - Financial recklessness - Result: Prolonged mood issues and life-threatening situations @solomon2010
+Despite their clinical significance, risk-taking behaviours in BD remain under-addressed in current therapeutic models, and existing resources fail to provide individuals with tailored support for managing these behaviours.
 
 **Current Interventions:** - Focus mainly on mood regulation - Gap: Directly addressing risky behaviors @bipolar2020
 
-# Role of Community Support Groups
+# Overarching Goal
 
-\- Key role in implementing activities
+We are embarked on developing a **personalised recovery and resilience kit**, co-designed with stakeholders and guided by the metaphor of earthquake-resistant **Japanese pagoda architecture**.
 
-\- Asset-based approach
+Just as a pagoda withstands earthquakes through its flexible yet strong design, this kit will offer adaptable, layered support to enhance recovery and resilience in individuals with BD.
 
-\- Empower participants despite BD challenges
+\[Edit to create other slides...\]This project aims to develop and implement a personalised recovery and resilience kit for individuals with BD, offering tailored support to manage serious risk behaviours. By following the **pagoda metaphor**—with flexible, layered support that mirrors the resilience of earthquake-resistant architecture—this kit provides an innovative approach to BD management. Through careful co-design, and pilot testing, we plan to set up the basic structure to develop future projects to evaluate integration into existing care pathways. This project aligns with implementation science principles, ensuring that the kit is practical, accessible, and potentially scalable across diverse healthcare settings.
 
-\- Inclusive learning, communication, and shared experiences
+# The Metaphor of the Pagoda
+
+The metaphor of a traditional Japanese pagoda provides a structural and philosophical framework for developing a personalised kit to help individuals with BD. Pagodas are built to withstand earthquakes through a combination of flexibility and strength, specifically using features like the **shinbashira** (a central pillar) and interlocking wooden joints. These architectural elements are designed to absorb shocks and maintain stability during crises—an ideal metaphor for the personalised kit that we propose for individuals with BD.
+
+\[develop separate slides\] Each part of the pagoda offers inspiration for a different aspect of the kit:
+
+-   **Shinbashira (Core Self-Narratives)**: The central pillar represents an individual’s sense of self (identity, values). For individuals with BD, maintaining a strong personal narrative can serve as an anchor during mood swings. The kit would include exercises like journaling, self-affirmations, and tools to help individuals reconnect with their core identity during mood episodes. \[Need adaptation to reflect the complexity: see \@potter2013 and \@carls-diamante2023 as examples)
+
+-   **Interlocking Joints (Social Support Networks)**: The joints of a pagoda allow flexibility while maintaining the structure's integrity. These joints can be likened to the personal and social networks that help individuals with BD manage their condition. The survival kit would include resources for strengthening relationships, building effective communication strategies, and accessing social support during times of crisis.
+
+-   **Tiers (Coping Strategies)**: The multiple levels of a pagoda represent different coping strategies that work together to ensure resilience. For BD, this could mean incorporating mindfulness exercises, grounding techniques, and emotional regulation practices tailored to various levels of mood disturbance (mild, moderate, severe).
+
+-   **Roof (Protection and Boundaries)**: The roof of the pagoda shields the structure, much like personal boundaries protect emotional well-being. The kit would include tools for setting personal boundaries, managing time effectively, and creating a safe environment that reduces stress and emotional overload.
+
+-   **Foundation (Physical Well-being)**: Just as a pagoda’s base provides stability, the foundation of an individual’s well-being is rooted in their physical health. The survival kit would include resources on managing sleep, diet, exercise, and medication adherence, all of which are crucial for maintaining mental and emotional balance.
 
 # Co-Design Approach
 
@@ -51,6 +67,30 @@ For resources about creating slides in Quarto see: <https://quarto.org/docs/pres
 \- Create resonant solutions with those they aim to benefit
 
 \- Commitment to holistic and impactful solutions
+
+**Co-Designing the Bipolar Disorder Kit**
+
+**1. Preparation (Planning the Kit)**
+
+Much like an earthquake survival kit requires careful planning, the BD kit would be co-designed with the input of individuals living with BD, clinicians, and family members. This collaborative design process will ensure that the resources are relevant, accessible, and tailored to the specific needs of each individual. Workshops will be held to identify the essential personal tools for managing risk behaviours, allowing for a more holistic approach to treatment.
+
+**2. Accessibility (Using the Kit During Episodes)**
+
+In earthquake-prone areas, survival kits must be easily accessible when disaster strikes. Similarly, for individuals with BD, the survival kit must be easy to access before, during and after mood episodes. This could take the form of a digital toolkit or app that reminds individuals of their coping strategies, core self-narratives, and support networks. Physical reminders, such as notes or cards, could also be included to provide quick access to essential resources during moments of crisis.
+
+**3. Applicability (Implementing the Kit)**
+
+Finally, the kit must be integrated into daily life. This stage focuses on helping individuals implement the tools and resources in the kit regularly, much like practicing emergency drills. Routine check-ins, self-assessment tools, and regular support from clinicians and family members would ensure that the kit remains a practical, living resource that adapts to the changing needs of the individual.
+
+# Role of Community Support Groups
+
+\- Key role in implementing activities
+
+\- Asset-based approach
+
+\- Empower participants despite BD challenges
+
+\- Inclusive learning, communication, and shared experiences
 
 # Phygital Space
 
