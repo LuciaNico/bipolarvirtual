@@ -38,11 +38,15 @@ We are embarked on developing a **personalised recovery and resilience kit**, co
 
 Just as a pagoda withstands earthquakes through its flexible yet strong design, this kit will offer adaptable, layered support to enhance recovery and resilience in individuals with BD.
 
-\[Edit to create other slides...\]This project aims to develop and implement a personalised recovery and resilience kit for individuals with BD, offering tailored support to manage serious risk behaviours. By following the **pagoda metaphor**—with flexible, layered support that mirrors the resilience of earthquake-resistant architecture—this kit provides an innovative approach to BD management. Through careful co-design, and pilot testing, we plan to set up the basic structure to develop future projects to evaluate integration into existing care pathways. This project aligns with implementation science principles, ensuring that the kit is practical, accessible, and potentially scalable across diverse healthcare settings.
+\[Edit to create other slides...\]This project aims to develop and implement a personalised recovery and resilience kit for individuals with BD, offering tailored support to manage serious risk behaviours. By following the **pagoda metaphor**—with flexible, layered support that mirrors the resilience of earthquake-resistant architecture—this kit provides an innovative approach to BD management.
+
+Through careful co-design, and pilot testing, we plan to set up the basic structure to develop future projects to evaluate integration into existing care pathways. This project aligns with implementation science principles, ensuring that the kit is practical, accessible, and potentially scalable across diverse healthcare settings.
 
 # The Metaphor of the Pagoda
 
-The metaphor of a traditional Japanese pagoda provides a structural and philosophical framework for developing a personalised kit to help individuals with BD. Pagodas are built to withstand earthquakes through a combination of flexibility and strength, specifically using features like the **shinbashira** (a central pillar) and interlocking wooden joints. These architectural elements are designed to absorb shocks and maintain stability during crises—an ideal metaphor for the personalised kit that we propose for individuals with BD.
+The metaphor of a traditional Japanese pagoda provides a structural and philosophical framework for developing a personalised kit to help individuals with BD.
+
+Pagodas are built to withstand earthquakes through a combination of flexibility and strength, specifically using features like the **shinbashira** (a central pillar) and interlocking wooden joints. These architectural elements are designed to [absorb shocks]{.underline} and [maintain stability during crises]{.underline}—an ideal metaphor for the personalised kit that we propose for individuals with BD.
 
 \[develop separate slides\] Each part of the pagoda offers inspiration for a different aspect of the kit:
 
@@ -54,7 +58,7 @@ The metaphor of a traditional Japanese pagoda provides a structural and philosop
 
 -   **Roof (Protection and Boundaries)**: The roof of the pagoda shields the structure, much like personal boundaries protect emotional well-being. The kit would include tools for setting personal boundaries, managing time effectively, and creating a safe environment that reduces stress and emotional overload.
 
--   **Foundation (Physical Well-being)**: Just as a pagoda’s base provides stability, the foundation of an individual’s well-being is rooted in their physical health. The survival kit would include resources on managing sleep, diet, exercise, and medication adherence, all of which are crucial for maintaining mental and emotional balance.
+-   **Foundation (Physical Well-being)**: Just as a pagoda’s base provides stability, the foundation of an individual’s well-being is rooted in their physical health. The kit would include resources on managing sleep, diet, exercise, and medication adherence, all of which are crucial for maintaining mental and emotional balance.
 
 # Co-Design Approach
 
