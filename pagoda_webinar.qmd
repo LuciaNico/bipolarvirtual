@@ -22,7 +22,7 @@ For resources about creating slides in Quarto see: <https://quarto.org/docs/pres
 
 # Introduction
 
-People with Bipolar Disorder (BD) face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, and financial recklessness.
+People with Bipolar Disorder (BD) face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, relationship breakdown, and financial recklessness.
 
 These behaviours often mirror the sudden and powerful impact of natural disasters like earthquakes, leaving individuals and their families dealing with severe consequences, such as legal issues, mental health crises, and strained relationships.
 
@@ -30,7 +30,7 @@ These behaviours often mirror the sudden and powerful impact of natural disaster
 
 Despite their clinical significance, risk-taking behaviours in BD remain under-addressed in current therapeutic models, and existing resources fail to provide individuals with tailored support for managing these behaviours.
 
-**Current Interventions:** - Focus mainly on mood regulation - Gap: Directly addressing risky behaviors @bipolar2020
+**Current Interventions:** - Focus mainly on mood regulation - Gap: Directly addressing risky behaviours @bipolar2020
 
 # Overarching Goal
 
@@ -38,7 +38,7 @@ We are embarked on developing a **personalised recovery and resilience kit**, co
 
 Just as a pagoda withstands earthquakes through its flexible yet strong design, this kit will offer adaptable, layered support to enhance recovery and resilience in individuals with BD.
 
-\[Edit to create other slides...\]This project aims to develop and implement a personalised recovery and resilience kit for individuals with BD, offering tailored support to manage serious risk behaviours. By following the **pagoda metaphor**—with flexible, layered support that mirrors the resilience of earthquake-resistant architecture—this kit provides an innovative approach to BD management.
+\[Edit to create other slides...\]This project aims to develop and implement a personalised recovery and resilience kit for individuals with BD \[and their carers\], offering tailored support to manage serious risk-taking behaviours. By following the **pagoda metaphor**—with flexible, layered support that mirrors the resilience of earthquake-resistant architecture—this kit provides an innovative approach to BD management.
 
 Through careful co-design, and pilot testing, we plan to set up the basic structure to develop future projects to evaluate integration into existing care pathways. This project aligns with implementation science principles, ensuring that the kit is practical, accessible, and potentially scalable across diverse healthcare settings.
 
@@ -58,7 +58,7 @@ Pagodas are built to withstand earthquakes through a combination of flexibility 
 
 -   **Roof (Protection and Boundaries)**: The roof of the pagoda shields the structure, much like personal boundaries protect emotional well-being. The kit would include tools for setting personal boundaries, managing time effectively, and creating a safe environment that reduces stress and emotional overload.
 
--   **Foundation (Physical Well-being)**: Just as a pagoda’s base provides stability, the foundation of an individual’s well-being is rooted in their physical health. The kit would include resources on managing sleep, diet, exercise, and medication adherence, all of which are crucial for maintaining mental and emotional balance.
+-   **Foundation (Physical Well-being)**: Just as a pagoda’s base provides stability, the foundation of an individual’s well-being is rooted in their physical health. The kit would include resources on managing sleep, diet, exercise, and medication adherence, all of which are crucial for maintaining mental and emotional balance. \[eg. Bipolar UK app?\]
 
 # Co-Design Approach
 
@@ -88,7 +88,11 @@ Finally, the kit must be integrated into daily life. This stage focuses on helpi
 
 # Role of Community Support Groups
 
+\- \[DD can add content here\]
+
 \- Key role in implementing activities
+
+\- Focus on self-management
 
 \- Asset-based approach
 
@@ -110,7 +114,9 @@ This is a summary of two papers with different points of view re identify in BD 
 
 Carls-Diamante’s Taxonomy (2023) @carls-diamante2023 - "Know Thyself: Bipolar Disorder and Self-Concept”:
 
-Carls-Diamante introduces a taxonomy to conceptualise the relationship between bipolar disorder (BD) and self-concept. The taxonomy aims to clarify how individuals with BD might perceive the influence of the condition on their personality, behavior, and self-concept. The taxonomy identifies four possible relationships between BD and the self, emphasizing that these categories are not fixed and can change over time:
+\[would these slides be delivered to a research/professional healthcare audience?\]
+
+Carls-Diamante introduces a taxonomy to conceptualise the relationship between bipolar disorder (BD) and self-concept. The taxonomy aims to clarify how individuals with BD might perceive the influence of the condition on their personality, behaviour, and self-concept. The taxonomy identifies four possible relationships between BD and the self, emphasizing that these categories are not fixed and can change over time:
 
 1.  BD contributes to the self: In this view, BD is seen as contributing certain traits to an individual’s self-concept. For instance, certain aspects of creativity, energy, or emotional intensity during manic phases may be attributed to BD and are considered part of the person's authentic self.
 
@@ -120,7 +126,7 @@ Carls-Diamante introduces a taxonomy to conceptualise the relationship between b
 
 4.  BD is not part of the real self: In this case, BD is viewed as something external or separate from the individual’s core identity. The person might view BD as a disorder they manage but not as a fundamental part of who they are.
 
-Carls-Diamante emphasizes that these categories help individuals reflect on how BD affects their self-concept, with the goal of resolving "self-illness ambiguity" (SIA)—the confusion about whether certain behaviors or traits stem from the self or the disorder.
+Carls-Diamante emphasizes that these categories help individuals reflect on how BD affects their self-concept, with the goal of resolving "self-illness ambiguity" (SIA)—the confusion about whether certain behaviours or traits stem from the self or the disorder.
 
 de Haan’s Response (2023) @dehaan2023 - "What Do My Problems Say About Me?”:
 
@@ -148,8 +154,10 @@ Key Differences:
 
 \- Emphasize simple understanding of risk
 
-\- Integrate personal values
+\- \[What risks do people with BD face?\]
+
+\- Integrate personal values \[gist?\]
 
 \- Leverage community support groups
 
-\- Empower individuals to manage behaviors
+\- Empower individuals to manage behaviours
