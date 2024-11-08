@@ -1,0 +1,43 @@
+---
+title: "Pagoda_closeread"
+format: closeread-html
+---
+
+::: cr-section
+
+People with Bipolar Disorder (BD) face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, relationship breakdown, and financial recklessness.
+
+These behaviours often mirror the sudden and powerful impact of natural disasters like earthquakes, leaving individuals and their families dealing with severe consequences, such as legal issues, mental health crises, and strained relationships. @cr-image1
+
+::: {#cr-image1}
+![](Japanese-style_painting.png)
+:::
+:::
+
+::: cr-section
+
+We are embarked on developing a personalised recovery and resilience kit, co-designed with stakeholders and guided by the metaphor of earthquake-resistant Japanese pagoda architecture.
+
+Just as a pagoda withstands earthquakes through its flexible yet strong design, this kit will offer adaptable, layered support to enhance recovery and resilience in individuals with BD. @cr-image2
+
+::: {#cr-image2}
+![](x-ray_pagoda.png)
+:::
+:::
+
+::: cr-section
+
+The metaphor of a traditional Japanese pagoda provides a structural and philosophical framework for developing a personalised kit to help individuals with BD.
+
+Pagodas are built to withstand earthquakes through a combination of flexibility and strength, specifically using features like the shinbashira (a central pillar) and interlocking wooden joints. These architectural elements are designed to absorb shocks and maintain stability during crises—an ideal metaphor for the personalised kit that we propose for individuals with BD. @cr-image3
+
+::: {#cr-image3}
+![](x-ray_joints.png)
+:::
+:::
+
+
+
+
+
+
