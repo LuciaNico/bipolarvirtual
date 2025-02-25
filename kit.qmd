@@ -7,13 +7,45 @@ editor: visual
 
 1.  Try to visualize structure
 
-Opening:
+------------------------------------------------------------------------
 
-People with Bipolar Disorder (BD) face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, relationship breakdown, and financial recklessness AND there are gaps in the disorder's treatment, SO we created a personalised recovery and resilience kit using the metaphor of a Japanese pagoda
+Kit Intro Outline:
 
-Testing the branch
+People with Bipolar Disorder (BD) face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, relationship breakdown, and financial recklessness, but there are gaps in the disorder's treatment, which focuses primarily on one aspect: mood regulation.
 
-Testing new branch in remote repo
+This has left the other faulty components of the disorder, including risk taking and decision making, largely unresolved. To address this issue, we created a personalised recovery and resilience kit using the metaphor of the Japanese pagoda architecture. The kit is informed by findings in past studies, co-design methodology, and community support groups.
+
+There are five central elements contributing to the kit, based on the structure of the pagoda: the Shinbashira (Core Self-Narratives), Interlocking Joints (Social Support Networks), Tiers (Coping Strategies), Roof (Protection and Boundaries), and the Foundation (Physical Well-being). This kit will go through each element and provide resources to contribute to the maintenance of each one.
+
+------------------------------------------------------------------------
+
+### **1. Shinbashira (Core Self-Narratives)**
+
+#### **Resources:**
+
+------------------------------------------------------------------------
+
+### **2. Interlocking Joints (Social Support Networks)**:
+
+#### **Resources:**
+
+------------------------------------------------------------------------
+
+### **3. Tiers (Coping Strategies)**:
+
+#### **Resources:**
+
+------------------------------------------------------------------------
+
+### **4. Roof (Protection and Boundaries):**
+
+#### **Resources:**
+
+------------------------------------------------------------------------
+
+### **5. Foundation (Physical Well-being)**:
+
+#### **Resources:**
 
 ------------------------------------------------------------------------
 
