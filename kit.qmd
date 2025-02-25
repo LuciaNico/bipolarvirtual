@@ -13,6 +13,8 @@ People with Bipolar Disorder (BD) face significant risks of engaging in unpredic
 
 Testing the branch
 
+Testing new branch in remote repo
+
 ------------------------------------------------------------------------
 
 Click [here](https://github.com/LuciaNico/bipolarvirtual/blob/main/RRP%20white%20paper.pdf) to access White Paper full version.
