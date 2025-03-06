@@ -15,7 +15,7 @@ In life, everyone encounters their own unique set of challenges. It is as if eac
 
 Some individuals were given pieces of land that face an entirely different array of difficulties. Instead of their difficulties being associated with what's on the land, their challenge may be navigating the land itself. Their plot of land may be prone to events that are extreme and unpredictable, much like earthquakes. The challenges faced by people with BD are one example of this.
 
-People with BD face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, relationship breakdown, and financial recklessness, but there are gaps in the types of support provided to individuals with a diagnosis of BD, which focuses primarily on regulating mood.
+People with BD face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, relationship breakdown, and financial recklessness, but there are gaps in the types of support provided to individuals with a diagnosis of BD, which focuses primarily on regulating mood.  **mention self-harm**
 
 This has left other challenges experienced by them, including risk-taking and decision-making, largely unresolved. To address this issue, we are creating a personalised recovery and resilience kit using the metaphors to organise its content. The development of the kit is informed by findings in past and current studies, and co-design methodology.
 
@@ -41,6 +41,8 @@ There are five central elements that we want to highlight in a pagoda, and we ar
 
 #### **Resources:**
 
+\[1:1 carers, family, friends; Community support/self-help groups; 'Official' groups offered by government or health-service authorities\]
+
 ------------------------------------------------------------------------
 
 ### **3. Tiers (Coping Strategies)**:
@@ -48,6 +50,8 @@ There are five central elements that we want to highlight in a pagoda, and we ar
 \[What are the tiers of the pagoda? What do they mean in this context? Why are strong coping strategies important? What are healthy coping strategies? What types of resources will be here?\]
 
 #### **Resources:**
+
+\[Take a look at https://www.thedecider.org.uk\]
 
 ------------------------------------------------------------------------
 
@@ -58,6 +62,8 @@ There are five central elements that we want to highlight in a pagoda, and we ar
 #### **Resources:**
 
 \[Ideas for resources: What are healthy boundaries? How do you implement boundaries?\]
+
+\[Perhaps comment on Advance Statements or Decisions; Self-management training\]
 
 ------------------------------------------------------------------------
 
