@@ -9,77 +9,133 @@ It provides a strong sense of security and support through its multidimensional 
 
 There are five central elements that we want to highlight in a pagoda, and we are using them to organize the kit: the Shinbashira (Core Self-Narratives), Interlocking Joints (Social Support Networks), Tiers (Coping Strategies), Roof (Protection and Boundaries), and the Foundation (Physical Well-being). This kit will go through each element and provide resources to contribute to the maintenance of each one.
 
-:::: cr-section
-::: {#cr-image1}
-![](images/pagoda1.png){fig-align="center" width="150"}
-:::
 
-Central Pillar (Shinbashira) = Core Values and Self-Identity
+:::{.columns}
+
+
+::: {.column width="20%"}
+
+![](images/pagoda1.png){fig-align="center" width="150"}
+
+
+:::
+ 
+::: {.column width="80%"}
+
+**Central Pillar (Shinbashira) = Core Values and Self-Identity**
 
 Ancient Buildings: The central pillar (shinbashira) in pagodas acts as a stabilising "spine," helping the structure distribute seismic forces and maintain balance.
 
-Human Experience: A strong sense of core values, personal identity, or self-understanding can serve as the central "pillar" in a person’s life, grounding them even when mood fluctuations shake their emotional landscape. Just like the central pillar supports the building, an individual’s self-awareness and deeply held values can provide stability during manic episodes, preventing total collapse into harmful behaviours. @cr-image1
-::::
+Human Experience: A strong sense of core values, personal identity, or self-understanding can serve as the central "pillar" in a person’s life, grounding them even when mood fluctuations shake their emotional landscape. Just like the central pillar supports the building, an individual’s self-awareness and deeply held values can provide stability during manic episodes, preventing total collapse into harmful behaviours.
 
-:::: cr-section
-::: {#cr-image2}
-![](images/pagoda2.png){fig-align="center" width="150"}
 :::
 
-Joint Construction without Nails = Healthy Relationships
+:::
+
+
+:::{.columns}
+
+::: {.column width="20%"}
+
+![](images/pagoda2.png){fig-align="center" width="150"}
+
+
+:::
+ 
+::: {.column width="80%"}
+
+**Joint Construction without Nails = Healthy Relationships**
 
 Ancient Buildings: The joints in ancient wooden buildings are designed to be flexible, allowing the building to move and sway without snapping or breaking. This flexibility is crucial for absorbing seismic shocks.
 
-Human Experience: Healthy, flexible relationships that allow for emotional movement and adaptation without rigid expectations can absorb the shocks of mood episodes. Supportive relationships can bend, adjust, and accommodate mood fluctuations without breaking under the strain. These relationships, like family or close friends, provide support while giving space for individual emotional experience. @cr-image2
-::::
-
-:::: cr-section
-::: {#cr-image3}
-![](images/pagoda3.png){fig-align="center" width="150"}
+Human Experience: Healthy, flexible relationships that allow for emotional movement and adaptation without rigid expectations can absorb the shocks of mood episodes. Supportive relationships can bend, adjust, and accommodate mood fluctuations without breaking under the strain. These relationships, like family or close friends, provide support while giving space for individual emotional experience.
 :::
 
-Multi-Tiered Roofs = Social Support, Layered Resources and Crisis Prevention
+:::
+
+
+:::{.columns}
+
+::: {.column width="20%"}
+
+![](images/pagoda3.png){fig-align="center" width="150"}
+
+
+:::
+ 
+::: {.column width="80%"}
+
+**Multi-Tiered Roofs = Social Support, Layered Resources and Crisis Prevention**
 
 Ancient Buildings: The multi-tiered roofs in pagodas help distribute the forces of an earthquake, acting like shock absorbers that slow down and spread out the shaking.
 
-Human Experience: Layered social support systems—including family, friends, healthcare professionals, and community resources—act like the multiple layers of a roof. Each layer provides an additional buffer, spreading out emotional shocks and offering safety nets that can slow down the escalation of risky behaviours. These layers work together to ensure that no single source of support bears the entire load. @cr-image3
-::::
-
-:::: cr-section
-::: {cr-image4}
-![](images/pagoda4.png){fig-align="center" width="150"}
+Human Experience: Layered social support systems—including family, friends, healthcare professionals, and community resources—act like the multiple layers of a roof. Each layer provides an additional buffer, spreading out emotional shocks and offering safety nets that can slow down the escalation of risky behaviours. These layers work together to ensure that no single source of support bears the entire load.
 :::
 
-Symmetrical and Simple Design = Balanced Lifestyle
+:::
+
+
+:::{.columns}
+
+::: {.column width="20%"}
+
+![](images/pagoda4.png){fig-align="center" width="150"}
+
+
+:::
+ 
+::: {.column width="80%"}
+
+**Symmetrical and Simple Design = Balanced Lifestyle**
 
 Ancient Buildings: The symmetrical and simple designs of ancient buildings help distribute stress evenly during an earthquake, reducing the concentration of forces on any one part of the structure.
 
-Human Experience: A balanced lifestyle—including time for self-care, work, social engagement, and rest—helps distribute the "emotional load" of life evenly, preventing any one aspect of life from becoming too overwhelming. This balance ensures that even during stressful periods, a person isn’t overwhelmed by any single area (e.g., work stress or relationship issues), reducing the risk of extreme reactions during mood episodes. @cr-image4
-::::
-
-:::: cr-section
-::: {cr-image5}
-![](images/pagoda5.png){fig-align="center" width="150"}
+Human Experience: A balanced lifestyle—including time for self-care, work, social engagement, and rest—helps distribute the "emotional load" of life evenly, preventing any one aspect of life from becoming too overwhelming. This balance ensures that even during stressful periods, a person isn’t overwhelmed by any single area (e.g., work stress or relationship issues), reducing the risk of extreme reactions during mood episodes.
 :::
 
-Flexible Wooden Structure = Emotional Adaptability and Coping Skills
+:::
+
+
+:::{.columns}
+
+::: {.column width="20%"}
+
+![](images/pagoda5.png){fig-align="center" width="150"}
+
+
+:::
+ 
+::: {.column width="80%"}
+
+**Flexible Wooden Structure = Emotional Adaptability and Coping Skills**
 
 Ancient Buildings: The flexible wooden structure of Japanese buildings allows them to bend and absorb energy without breaking under stress.
 
-Human Experience: Emotional adaptability and well-developed coping skills (e.g., mindfulness, emotional regulation techniques, therapy) function in a similar way, allowing a person to "bend" with emotional highs and lows without breaking down. These coping skills help an individual manage mood swings in a healthy way, reducing the impact of manic episodes. @cr-image5
-::::
-
-:::: cr-section
-::: {cr-image6}
-![](images/pagoda6.png){fig-align="center" width="123"}
+Human Experience: Emotional adaptability and well-developed coping skills (e.g., mindfulness, emotional regulation techniques, therapy) function in a similar way, allowing a person to "bend" with emotional highs and lows without breaking down. These coping skills help an individual manage mood swings in a healthy way, reducing the impact of manic episodes.
 :::
 
-Base Isolation (Floating Foundations) = Grounded Daily Routine and Stability
+:::
+
+
+:::{.columns}
+
+::: {.column width="20%"}
+
+![](images/pagoda6.png){fig-align="center" width="123"}
+
+
+:::
+ 
+::: {.column width="80%"}
+
+**Base Isolation (Floating Foundations) = Grounded Daily Routine and Stability**
 
 Ancient Buildings: In some ancient structures, the foundation stones allow the building to "float" above the ground, moving slightly with the earthquake rather than fighting against it. This helps absorb the shock and prevent the structure from crumbling.
 
-Human Experience: A grounded daily routine—including regular sleep, consistent medication, and structured activities—acts like a floating foundation. It gives individuals a stable base from which they can handle mood swings. Routine can absorb the shocks of mood changes and prevent escalation, offering a predictable structure that remains steady even during emotional upheavals. @cr-image6
-::::
+Human Experience: A grounded daily routine—including regular sleep, consistent medication, and structured activities—acts like a floating foundation. It gives individuals a stable base from which they can handle mood swings. Routine can absorb the shocks of mood changes and prevent escalation, offering a predictable structure that remains steady even during emotional upheavals.
+:::
+
+:::
 
 ------------------------------------------------------------------------
 
