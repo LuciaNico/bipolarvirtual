@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Kit – Bipolar Risk</title>
+<title>Bipolar Risk - Kit</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -106,7 +106,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+          <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -115,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
     </div>
 <!-- main -->
@@ -150,31 +150,13 @@ ul.task-list li input[type="checkbox"] {
 <p>Some individuals were given pieces of land that face an entirely different array of difficulties. Instead of their difficulties being associated with what’s on the land, their challenge may be navigating the land itself. Their plot of land may be prone to events that are extreme and unpredictable, much like earthquakes. The challenges faced by people with BD are one example of this.</p>
 <hr>
 <p>People with BD face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, relationship breakdown, self-harm, and financial recklessness, but there are gaps in the types of support provided to individuals with a diagnosis of BD, which focuses primarily on regulating mood. These gaps in support have left other challenges experienced by them, including risk-taking and decision-making, largely unresolved. To address this issue, we are creating a personalised recovery and resilience kit. The development of the kit is informed by findings in past and current studies, and co-design methodology.</p>
-<div class="columns">
-<div class="column" style="width:20%;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/whythismatters.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="100"></p>
-</figure>
-</div>
-</div><div class="column" style="width:80%;">
-<p><strong><em>Why This Matters</em></strong></p>
+<p><img src="images/whythismatters.png" class="img-fluid" style="float: left; margin-right: 1em; margin-bottom: 0.5em;" width="80"></p>
+<p><strong>Why This Matters</strong></p>
 <p>An individual’s experience with Bipolar Disorder can bring on challenges, such as feelings of uncertainty, loss of control, hopelessness, and intense fluctuations of mood. For those with BD, balancing responsibilities and making decisions can feel like an impossible task. It can feel hard to connect with others and manage both physical and mental health. This kit is designed to give individuals with BD an organized and cohesive list of support and methods to balance the hardships of life in order to overcome the areas that feel out of control.</p>
-</div>
-</div>
-<div class="columns">
-<div class="column" style="width:20%;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/earthquakemetaphor.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="150"></p>
-</figure>
-</div>
-</div><div class="column" style="width:80%;">
+<p><img src="images/earthquakemetaphor.png" class="img-fluid" style="float: left; margin-right: 1em; margin-bottom: 0.5em;" width="90"></p>
 <p><strong><em>The Earthquake Metaphor</em></strong></p>
 <p>Navigating life as a person with bipolar disorder can feel like living on earthquake-prone land. There can be unexpected disruptions to routine, relationships, and well-being that can feel like a complete disturbance to one’s individual foundation. However, just as earthquake-resistant structures are built with resilience in mind, individuals can develop strategies to cope with and overcome these challenges.</p>
-<p>Inspired by the Japanese pagoda, a structure designed to withstand seismic forces, resilience in individuals with bipolar disorder can be supported by a layered system. A strong sense of self-awareness, values, and purpose provides emotional stability during and in-between mood fluctuation episodes. A strong network of friends, family, support services, and mental health resources acts as protective layers, allowing for support during particularly stressful periods. Developing coping mechanisms, such as mindfulness, self-understanding, and seeking support allows individuals with BD to handle stress and mood fluctuations without feeling overwhelmed. Establishing consistent sleep patterns, balanced nutrition, and regular physical activity provides a solid foundation for mental well-being.</p>
-</div>
-</div>
+<p>Inspired by the Japanese pagoda, a structure designed to withstand seismic forces, resilience in individuals with bipolar disorder can be supported by a layered system. A strong sense of self-awareness, values, and purpose provides emotional stability during and in-between mood fluctuation episodes. A strong network of friends, family, support services, and mental health resources acts as protective layers, allowing for support during particularly stressful periods. Developing coping mechanisms, such as mindfulness, self-understanding, and seeking support allows individuals with BD to handle stress and mood fluctuations without feeling overwhelmed. Establishing consistent sleep patterns, balanced nutrition, and regular physical activity provides a solid foundation for mental well-being. ::: :::</p>
 <div class="columns">
 <div class="column" style="width:20%;">
 <div class="quarto-figure quarto-figure-center">
@@ -287,7 +269,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const onCopySuccess = function(e) {
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -319,29 +312,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
   });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -349,7 +320,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
