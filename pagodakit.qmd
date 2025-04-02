@@ -2,14 +2,6 @@
 title: "pagodakit"
 format: html
 ---
-
-Just as people have developed coping mechanisms to minimise the negative impact of natural disasters—such as the Japanese pagoda architecture (our first metaphor) for resisting the effects of earthquakes—we believe a similar approach is needed for challenges such as those experienced by people with BD. No matter the type of challenge, individuals can feel a sense of burden by trying to overcome life's demands, which can be difficult to navigate alone. While this kit is being developed with people with BD in mind, it can be useful to everyone, with or without mental health challenges.
-
-It provides a strong sense of security and support through its multidimensional structure to help people work through their respective challenges and needs.
-
-There are five central elements that we want to highlight in a pagoda, and we are using them to organize the kit: the Shinbashira (Core Self-Narratives), Interlocking Joints (Social Support Networks), Tiers (Coping Strategies), Roof (Protection and Boundaries), and the Foundation (Physical Well-being). This kit will go through each element and provide resources to contribute to the maintenance of each one.
-
-
 :::{.columns}
 
 
@@ -30,6 +22,15 @@ Human Experience: A strong sense of core values, personal identity, or self-unde
 
 :::
 
+::: {.callout-note collapse="true"}
+## Questions to Consider
+
+1.	What are three core values that are most important to you, and how do they guide your decisions?
+2.	How has your sense of identity changed or remained the same since transitioning to university?
+3.	What challenges have made you question your values or identity, and how have you responded to them?
+
+:::
+
 :::
 
 
@@ -41,7 +42,7 @@ Human Experience: A strong sense of core values, personal identity, or self-unde
 
 
 :::
- 
+
 ::: {.column width="80%"}
 
 **Joint Construction without Nails = Healthy Relationships**
@@ -50,7 +51,14 @@ Ancient Buildings: The joints in ancient wooden buildings are designed to be fle
 
 Human Experience: Healthy, flexible relationships that allow for emotional movement and adaptation without rigid expectations can absorb the shocks of mood episodes. Supportive relationships can bend, adjust, and accommodate mood fluctuations without breaking under the strain. These relationships, like family or close friends, provide support while giving space for individual emotional experience.
 :::
+::: {.callout-note collapse="true"}
+## Questions to Consider
 
+1.	Who are the key people in your life who provide support, and how do they help you during challenging times?
+2.	How do you maintain healthy boundaries in relationships while adapting to new social environments at university?
+3.	What strategies can you use to build new supportive connections while keeping existing relationships strong?
+
+:::
 :::
 
 
@@ -62,7 +70,7 @@ Human Experience: Healthy, flexible relationships that allow for emotional movem
 
 
 :::
- 
+
 ::: {.column width="80%"}
 
 **Multi-Tiered Roofs = Social Support, Layered Resources and Crisis Prevention**
@@ -71,7 +79,14 @@ Ancient Buildings: The multi-tiered roofs in pagodas help distribute the forces 
 
 Human Experience: Layered social support systems—including family, friends, healthcare professionals, and community resources—act like the multiple layers of a roof. Each layer provides an additional buffer, spreading out emotional shocks and offering safety nets that can slow down the escalation of risky behaviours. These layers work together to ensure that no single source of support bears the entire load.
 :::
+::: {.callout-note collapse="true"}
+## Questions to Consider
 
+1.	What are the different layers of support available to you at university (e.g., friends, family, faculty, mental health services), and how do they help you?
+2.	How comfortable do you feel reaching out for support when needed, and what might make it easier for you?
+3.	What proactive steps can you take to strengthen your support network before a crisis occurs?
+
+:::
 :::
 
 
@@ -83,7 +98,7 @@ Human Experience: Layered social support systems—including family, friends, he
 
 
 :::
- 
+
 ::: {.column width="80%"}
 
 **Symmetrical and Simple Design = Balanced Lifestyle**
@@ -92,7 +107,14 @@ Ancient Buildings: The symmetrical and simple designs of ancient buildings help 
 
 Human Experience: A balanced lifestyle—including time for self-care, work, social engagement, and rest—helps distribute the "emotional load" of life evenly, preventing any one aspect of life from becoming too overwhelming. This balance ensures that even during stressful periods, a person isn’t overwhelmed by any single area (e.g., work stress or relationship issues), reducing the risk of extreme reactions during mood episodes.
 :::
+::: {.callout-note collapse="true"}
+## Questions to Consider
 
+1.	How do you currently distribute your time between academic work, social life, self-care, and relaxation?
+2.	What aspects of your routine feel unbalanced, and what small changes could help restore stability?
+3.	If stress levels were rising, what would be the first area in your life that you would adjust to maintain balance?
+
+::: 
 :::
 
 
@@ -104,7 +126,7 @@ Human Experience: A balanced lifestyle—including time for self-care, work, soc
 
 
 :::
- 
+
 ::: {.column width="80%"}
 
 **Flexible Wooden Structure = Emotional Adaptability and Coping Skills**
@@ -113,7 +135,14 @@ Ancient Buildings: The flexible wooden structure of Japanese buildings allows th
 
 Human Experience: Emotional adaptability and well-developed coping skills (e.g., mindfulness, emotional regulation techniques, therapy) function in a similar way, allowing a person to "bend" with emotional highs and lows without breaking down. These coping skills help an individual manage mood swings in a healthy way, reducing the impact of manic episodes.
 :::
+::: {.callout-note collapse="true"}
+## Questions to Consider
 
+1.	Think about a recent challenge you faced—how did you adapt, and what coping strategies helped you?
+2.	What are your go-to strategies for managing stress, and how well do they work for you?
+3.	How can you develop greater emotional flexibility to handle unexpected changes more effectively?
+
+::: 
 :::
 
 
@@ -134,7 +163,14 @@ Ancient Buildings: In some ancient structures, the foundation stones allow the b
 
 Human Experience: A grounded daily routine—including regular sleep, consistent medication, and structured activities—acts like a floating foundation. It gives individuals a stable base from which they can handle mood swings. Routine can absorb the shocks of mood changes and prevent escalation, offering a predictable structure that remains steady even during emotional upheavals.
 :::
+::: {.callout-note collapse="true"}
+## Questions to Consider
 
+1.	What routines or habits provide you with a sense of stability in your daily life?
+2.	How does your current routine support (or hinder) your well-being, and what changes would you like to make?
+3.	If your schedule was suddenly disrupted, what steps could you take to regain a sense of stability?
+
+:::
 :::
 
 ------------------------------------------------------------------------
