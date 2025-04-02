@@ -20,12 +20,19 @@ Some individuals were given pieces of land that face an entirely different array
 People with BD face significant risks of engaging in unpredictable, time-limited, yet devastating behaviours such as substance abuse, hypersexuality, relationship breakdown, self-harm, and financial recklessness, but there are gaps in the types of support provided to individuals with a diagnosis of BD, which focuses primarily on regulating mood. These gaps in support have left other challenges experienced by them, including risk-taking and decision-making, largely unresolved. To address this issue, we are creating a personalised recovery and resilience kit. The development of the kit is informed by findings in past and current studies, and co-design methodology.
 
 
+::: {.callout-note collapse=true}
+## Why This Matters
+
 ![](images/whythismatters.png){width="80" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
 
 **Why This Matters**
 
 An individual’s experience with Bipolar Disorder can bring on challenges, such as feelings of uncertainty, loss of control, hopelessness, and intense fluctuations of mood. For those with BD, balancing responsibilities and making decisions can feel like an impossible task. It can feel hard to connect with others and manage both physical and mental health. This kit is designed to give individuals with BD an organized and cohesive list of support and methods to balance the hardships of life in order to overcome the areas that feel out of control.
 
+:::
+
+::: {.callout-note collapse=true}
+## The Earthquake Metaphor
 
 ![](images/earthquakemetaphor.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
 
@@ -34,6 +41,45 @@ An individual’s experience with Bipolar Disorder can bring on challenges, such
 Navigating life as a person with bipolar disorder can feel like living on earthquake-prone land. There can be unexpected disruptions to routine, relationships, and well-being that can feel like a complete disturbance to one's individual foundation. However, just as earthquake-resistant structures are built with resilience in mind, individuals can develop strategies to cope with and overcome these challenges.
 
 Inspired by the Japanese pagoda, a structure designed to withstand seismic forces, resilience in individuals with bipolar disorder can be supported by a layered system. A strong sense of self-awareness, values, and purpose provides emotional stability during and in-between mood fluctuation episodes. A strong network of friends, family, support services, and mental health resources acts as protective layers, allowing for support during particularly stressful periods. Developing coping mechanisms, such as mindfulness, self-understanding, and seeking support allows individuals with BD to handle stress and mood fluctuations without feeling overwhelmed. Establishing consistent sleep patterns, balanced nutrition, and regular physical activity provides a solid foundation for mental well-being.
+
+:::
+
+
+::: {.panel-tabset}
+
+## Why This Matters
+
+![](images/whythismatters.png){width="80" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
+
+**Why This Matters**
+
+An individual’s experience with Bipolar Disorder can bring on challenges, such as feelings of uncertainty, loss of control, hopelessness, and intense fluctuations of mood. For those with BD, balancing responsibilities and making decisions can feel like an impossible task. It can feel hard to connect with others and manage both physical and mental health. This kit is designed to give individuals with BD an organized and cohesive list of support and methods to balance the hardships of life in order to overcome the areas that feel out of control.
+
+## The Earthquake Metaphor
+
+![](images/earthquakemetaphor.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
+
+***The Earthquake Metaphor***
+
+Navigating life as a person with bipolar disorder can feel like living on earthquake-prone land. There can be unexpected disruptions to routine, relationships, and well-being that can feel like a complete disturbance to one's individual foundation. However, just as earthquake-resistant structures are built with resilience in mind, individuals can develop strategies to cope with and overcome these challenges.
+
+Inspired by the Japanese pagoda, a structure designed to withstand seismic forces, resilience in individuals with bipolar disorder can be supported by a layered system. A strong sense of self-awareness, values, and purpose provides emotional stability during and in-between mood fluctuation episodes. A strong network of friends, family, support services, and mental health resources acts as protective layers, allowing for support during particularly stressful periods. Developing coping mechanisms, such as mindfulness, self-understanding, and seeking support allows individuals with BD to handle stress and mood fluctuations without feeling overwhelmed. Establishing consistent sleep patterns, balanced nutrition, and regular physical activity provides a solid foundation for mental well-being.
+
+## Crafting Resilience
+
+![](images/craftingresilience.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
+***Crafting Resilience***
+
+Resilience is not built overnight—it requires continuous shaping, adaptation, and learning. The symptoms of bipolar disorder can feel overwhelming and out of control, and individuals with BD must learn to navigate their reality by adopting sustainable habits. The Japanese concept of *Kaizen*, meaning continuous improvement, teaches that small, steady refinements in daily routines, social habits, and coping strategies lead to long-term resilience. Rather than expecting perfection, the philosophy of *Wabi-sabi*, which embraces imperfection, reminds individuals to see setbacks as natural and valuable parts of learning. Resilience is about recognizing that challenges happen and can be overcame. Moments of struggle do not define the journey but shape it.
+
+## The Master-Apprentice Relationship
+
+![](images/relationship.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
+***The Master-Apprentice Relationship***
+
+Learning from mentors, peers, and loved ones is crucial in developing resilience. Just as in traditional craftsmanship, where an apprentice learns not only technical skills but also patience and adaptability from a master, people benefit from seeking guidance from experienced individuals. Connecting with others can provide practical advice and emotional support. Supervisors, advisors, coworkers, and colleagues can help individuals navigate career challenges and goals. Joining groups, volunteering, or participating in hobbies fosters a sense of belonging and shared learning, reinforcing the idea that resilience is best developed through community and mentorship. Mentorship creates a ripple effect, empowering both mentor and mentee while enriching the entire community. It’s this collaborative spirit that drives our co-design approach, ensuring the kit reflects real-world challenges and solutions.
+:::
+
 
 
 
