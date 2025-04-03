@@ -1,14 +1,21 @@
 ---
-title: "pagodakit"
-format: html
+title: "The Pagoda Metaphor"
+format: 
+  html:
+    css:
+      - styles.css
+      - readability.css
 ---
+Below you will find a visual and written description of the pagoda as a metaphor for mental wellness. We invite you to read through the text and reflect on each component using our guiding questions.
+
+------------------------------------------------------------------------
+
 :::{.columns}
 
 
 ::: {.column width="20%"}
 
-![](images/pagoda1.png){fig-align="center" width="150"}
-
+![](images/pagoda1_transparent.png){fig-align="center" width="150"}
 
 :::
  
@@ -172,39 +179,3 @@ Human Experience: A grounded daily routine—including regular sleep, consistent
 
 :::
 :::
-
-------------------------------------------------------------------------
-
-### **1. Shinbashira (Core Self-Narratives)**
-
-#### **Resources:**
-
-------------------------------------------------------------------------
-
-### **2. Interlocking Joints (Social Support Networks)**:
-
-#### **Resources:**
-
-------------------------------------------------------------------------
-
-### **3. Tiers (Coping Strategies)**:
-
-#### **Resources:**
-
-------------------------------------------------------------------------
-
-### **4. Roof (Protection and Boundaries):**
-
-#### **Resources:**
-
-\[Ideas for resources: What are healthy boundaries? How do you implement boundaries?\]
-
-------------------------------------------------------------------------
-
-### **5. Foundation (Physical Well-being)**:
-
-#### **Resources:**
-
-------------------------------------------------------------------------
-
-Click [here](https://github.com/LuciaNico/bipolarvirtual/blob/main/RRP%20white%20paper.pdf) to access White Paper full version.
