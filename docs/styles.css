@@ -44,9 +44,12 @@
 
   /* Style or move the side bar */
 
-  border-left: none;              /* remove default left border */
 
-  border-right: 4px solid #364830; /* add right-side coloured bar */
+ border-left: none !important;         
+ border-inline-start: none !important; 
+ border: none !important;              
+
+ 
 
  
 
