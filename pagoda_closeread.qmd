@@ -88,7 +88,7 @@ Take one minute to reflect on these questions. @cr-questions2]{highlight="1,3"}
 *Ancient Buildings*: The flexible wooden structure of Japanese buildings allows them to bend and absorb energy without breaking under stress. *Human Experience*: Emotional adaptability and well-developed coping skills (e.g., mindfulness, emotional regulation techniques, therapy) function in a similar way, allowing a person to "bend" with emotional highs and lows without breaking down. These coping skills help an individual manage mood swings in a healthy way, reducing the impact of manic episodes. @cr-image5
 
 ::: {#cr-image5}
-![](images/gpagoda5.png)
+![](images/ggpagoda5.png)
 :::
 :::
 
@@ -98,6 +98,6 @@ Take one minute to reflect on these questions. @cr-questions2]{highlight="1,3"}
 *Ancient Buildings*: In some ancient structures, the foundation stones allow the building to "float" above the ground, moving slightly with the earthquake rather than fighting against it. This helps absorb the shock and prevent the structure from crumbling. *Human Experience*: A grounded daily routine—including regular sleep, consistent medication, and structured activities—acts like a floating foundation. It gives individuals a stable base from which they can handle mood swings. Routine can absorb the shocks of mood changes and prevent escalation, offering a predictable structure that remains steady even during emotional upheavals. @cr-image6
 
 ::: {#cr-image6}
-![](images/gpagoda6.png)
+![](images/ggpagoda6.png)
 :::
 :::
