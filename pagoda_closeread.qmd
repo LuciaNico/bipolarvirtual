@@ -12,11 +12,19 @@ format:
 
 ::: cr-section
 
-**Central Pillar (Shinbashira) = Core Values and Self-Identity**
+<span style="color:#b22222; font-weight:bold; text-align:center; display:block;font-size:1.2em;">
+Central Pillar <br> 
+(Shinbashira)  <br> 
+<br>
+Core Values and <br>
+Self-Identity</strong></span>
+
 
 :::{focus-on="cr-image1"}
 
 *Ancient Buildings*: The central pillar (shinbashira) in pagodas acts as a stabilising "spine," helping the structure distribute seismic forces and maintain balance. 
+
+<br>
 
 *Human Experience*: A strong sense of core values, personal identity, or self-understanding can serve as the central "pillar" in a person’s life, grounding them even when mood fluctuations shake their emotional landscape. Just like the central pillar supports the building, an individual’s self-awareness and deeply held values can provide stability during manic episodes, preventing total collapse into harmful behaviours. 
 :::
