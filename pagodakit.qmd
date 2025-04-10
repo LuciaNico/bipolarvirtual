@@ -10,6 +10,7 @@ Below you will find a visual and written description of the pagoda as a metaphor
 
 ------------------------------------------------------------------------
 
+
 :::{.columns}
 
 
@@ -33,7 +34,7 @@ Human Experience: A strong sense of core values, personal identity, or self-unde
 ## Questions to Consider
 
 1.	What are three core values that are most important to you, and how do they guide your decisions?
-2.	How has your sense of identity changed or remained the same since transitioning to university?
+2.	How has your sense of identity changed or remained the same over the past year?
 3.	What challenges have made you question your values or identity, and how have you responded to them?
 
 :::
@@ -62,7 +63,7 @@ Human Experience: Healthy, flexible relationships that allow for emotional movem
 ## Questions to Consider
 
 1.	Who are the key people in your life who provide support, and how do they help you during challenging times?
-2.	How do you maintain healthy boundaries in relationships while adapting to new social environments at university?
+2.	How do you maintain healthy boundaries in relationships while adapting to new social environments?
 3.	What strategies can you use to build new supportive connections while keeping existing relationships strong?
 
 :::
@@ -89,7 +90,7 @@ Human Experience: Layered social support systems—including family, friends, he
 ::: {.callout-note collapse="true"}
 ## Questions to Consider
 
-1.	What are the different layers of support available to you at university (e.g., friends, family, faculty, mental health services), and how do they help you?
+1.	What are the different layers of support available to you (e.g., friends, family, mental health services), and how do they help you?
 2.	How comfortable do you feel reaching out for support when needed, and what might make it easier for you?
 3.	What proactive steps can you take to strengthen your support network before a crisis occurs?
 
@@ -117,7 +118,7 @@ Human Experience: A balanced lifestyle—including time for self-care, work, soc
 ::: {.callout-note collapse="true"}
 ## Questions to Consider
 
-1.	How do you currently distribute your time between academic work, social life, self-care, and relaxation?
+1.	How do you currently distribute your time between work, social life, self-care, and relaxation?
 2.	What aspects of your routine feel unbalanced, and what small changes could help restore stability?
 3.	If stress levels were rising, what would be the first area in your life that you would adjust to maintain balance?
 
