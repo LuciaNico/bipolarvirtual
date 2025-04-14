@@ -67,13 +67,9 @@ In craftsmanship, the relationship between master and apprentice is a cornerston
 
 Mentorship fosters collaboration and trust between individuals with bipolar, caregivers, and mental health professionals. Each brings unique expertise: lived experience, compassionate care, or clinical knowledge. Together, they co-create tools and strategies tailored to individual needs, blending wisdom from every perspective.
 
-For example, one participant shared how a peer mentor, a fellow individual with lived experience of bipolar, helped them through challenging times. By offering practical advice and emotional support, the mentor modelled resilience and self-compassion, inspiring them to approach their own journey with greater confidence.
+For example, one participant shared how a peer worker, a fellow individual with lived experience of bipolar, helped them through challenging times. By offering practical advice and emotional support as an equal, the mentor modelled resilience and self-compassion, inspiring them to approach their own journey with greater confidence.
 
 Mentorship creates a ripple effect, empowering both mentor and apprentice while enriching the entire community. It’s this collaborative spirit that drives our co-design approach, ensuring the PeRRK reflects real-world challenges and solutions.
-
-
-** We need to think about this Master-Apprentice relationship in terms of peer support, where each peer has equal 'authority' and both people share their life story, tools, experiences, etc. to help each other **
-
 
 ## ![](images/complexity_transparent.png){width=30px style="vertical-align:middle;"} Breaking Down Complexity
 
