@@ -11,11 +11,15 @@ website:
       - whitepaper.qmd
       - posts.qmd
       - resources.qmd
+      - kit.qmd
+      
 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: 
+    - styles.css
+    - readability.css
     toc: true
 
 

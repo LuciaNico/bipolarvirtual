@@ -1,10 +1,10 @@
 ---
 title: "Personalised Recovery and Resilience Kit (PeRRK)"
-format: 
-  html:
-    css:
-      - styles.css
-      - readability.css
+# format: 
+#  html:
+#    css:
+#      - styles.css
+#      - readability.css
 ---
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ Living with bipolar can feel like navigating a landscape prone to sudden, unpred
 
 By using a second metaphor, the PeRRK draws inspiration from the earthquake-resistant design of Japanese pagodas, structures that have withstood centuries of seismic activity. These pagodas balance flexibility and strength, using principles such as interlocking joints and a central pillar to absorb shocks while maintaining stability.
 
-In the context of bipolar, the pagoda becomes a metaphor for resilience: a framework where each "tier" represents a vital aspect of well-being, from physical and emotional health to social support and coping strategies. Human insights, combined with online resources, help co-create tools that align with individual needs, building a system that adapts to life's challenges, just as the pagoda adapts to the forces of nature. To access a full description of the pagoda metaphor, click here.
+In the context of bipolar, the pagoda becomes a metaphor for resilience: a framework where each "tier" represents a vital aspect of well-being, from physical and emotional health to social support and coping strategies. Human insights, combined with online resources, help co-create tools that align with individual needs, building a system that adapts to life's challenges, just as the pagoda adapts to the forces of nature. To access a full description of the pagoda metaphor, [click here](pagoda_closeread.html).
 
 ## ![](images/craftingresilience_transparent.png){width=25px style="vertical-align:middle;"} Crafting Resilience
 

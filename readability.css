@@ -4,7 +4,7 @@ body {
   font-size: 16px;
   line-height: 1.6;
   color: #222; /* near-black for better contrast */
-  background-color: #D6DDB9;
+  background-color: #FAFAFA;
   max-width: 880px;
   margin: auto;
   padding: 1em;
@@ -32,7 +32,7 @@ ul, ol {
 
 /* Links */
 a {
-  color: #8A9977;
+  color: #000080;
   text-decoration: none;
 }
 a:hover {

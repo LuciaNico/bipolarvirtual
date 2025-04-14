@@ -6,6 +6,40 @@
   font-weight: bold;
 }
 
+.navbar {
+  background-color: #ffffff !important;
+  color: #222 !important;
+}
+
+/* Target links in the navbar */
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: #222 !important;
+}
+
+/* Optional: hover color for better UI feedback */
+.navbar .nav-link:hover {
+  color: #0077cc !important;
+  text-decoration: underline;
+}
+
+
+/* Style the tabset container */
+.panel-tabset {
+  background-color: #DFF6FF;
+  padding: 1em;
+  border-radius: 8px;
+}
+
+.panel-tabset .tab-content {
+  background-color: #F0F8FF;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+
+
 .callout-note.data-icon {
   background-image: url('images/whythismatters.png');
   background-repeat: no-repeat;

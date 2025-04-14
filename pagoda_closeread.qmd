@@ -3,11 +3,11 @@ title: "Pagoda Metaphor"
 format: 
   closeread-html:
     remove-header-space: true
-    cr-style:
-      section-background-color: "#d6ddb9"
     css: 
       - styles.css
       - readability.css
+    cr-style:
+      section-background-color: "#F0F8FF"
 ---
 <br>
 <br>
