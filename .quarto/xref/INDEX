@@ -1,0 +1,38 @@
+{
+  "pagoda_webinar.qmd": {
+    "pagoda_webinar.html": "b146bb69"
+  },
+  "index.qmd": {
+    "index.html": "09f1c936"
+  },
+  "posts/my_first_post/index.qmd": {
+    "index.html": "3f8ec63d"
+  },
+  "posts/second_post/index.qmd": {
+    "index.html": "6814aa83"
+  },
+  "presentations/hello.qmd": {
+    "hello.html": "9e024b63"
+  },
+  "resources.qmd": {
+    "resources.html": "3b6f6a48"
+  },
+  "whitepaper.qmd": {
+    "whitepaper.html": "be2c3356"
+  },
+  "posts.qmd": {
+    "posts.html": "0f5edb48"
+  },
+  "pagoda_closeread.qmd": {
+    "pagoda_closeread.html": "198ef68a"
+  },
+  "kit.qmd": {
+    "kit.html": "a2255a33"
+  },
+  "pagodakit.qmd": {
+    "pagodakit.html": "9e17e274"
+  },
+  "about.qmd": {
+    "about.html": "3bb2911b"
+  }
+}

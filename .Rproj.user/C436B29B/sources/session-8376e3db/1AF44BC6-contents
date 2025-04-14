@@ -1,0 +1,10 @@
+---
+title: "Bipolar Risk Blog"
+author: Bipolar Risk
+editor: visual
+listing:
+  contents: posts
+  type: default
+  sort: "date"
+  categories: true
+---

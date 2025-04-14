@@ -1,0 +1,8 @@
+[1,"==> quarto preview pagoda_closeread.qmd --to closeread-html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: pagoda_closeread.html\n  standalone: true\n  title-prefix: Bipolar Risk\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - _extensions/qmd-lab/closeread/closeread.css\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  page-layout: full\n  title: 'Personalised recovery and resilience kit for individuals with Bipolar Disorder: A metaphorical approach'\n  remove-header: true\n  \n"]
+[1,"Output created: docs\\pagoda_closeread.html\n\n"]
+[1,"Preparing to preview\n"]
+[1,"\n"]
+[1,"Watching files for changes\nBrowse at http://localhost:5557/pagoda_closeread.html\n"]
+[1,"GET: /pagoda_closeread.html\n"]
+[1,"GET: /pagoda_closeread.html\n"]

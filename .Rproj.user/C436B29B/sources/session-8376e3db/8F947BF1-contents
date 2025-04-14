@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bipolar Risk"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - whitepaper.qmd
+      - posts.qmd
+      - resources.qmd
+      - kit.qmd
+      
+
+format:
+  html:
+    theme: cosmo
+    css: 
+    - styles.css
+    - readability.css
+    toc: true
+
+
+

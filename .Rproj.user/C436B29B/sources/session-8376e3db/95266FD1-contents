@@ -1,0 +1,90 @@
+/* css styles */
+
+/* Change font colour of tab labels in .panel-tabset */
+.panel-tabset .nav-tabs .nav-link {
+  color: #000080; /* replace with your desired colour code */
+  font-weight: bold;
+}
+
+.callout-note.data-icon {
+  background-image: url('images/whythismatters.png');
+  background-repeat: no-repeat;
+  background-position: 1em 1em;
+  background-size: 15px;
+  padding-left: 3em;
+}
+
+/* === Callout Note Custom Styling === */
+
+ 
+
+.callout-note {
+
+  /* Set transparent background with slight white tint */
+
+  background-color: rgba(255, 255, 255, 0.6); /* semi-transparent white */
+
+  backdrop-filter: blur(4px); /* optional: frosted glass effect */
+
+ 
+
+  /* Limit the width of the callout box */
+
+  max-width: 50%; /* or use width: 400px; for fixed width */
+
+ 
+
+  /* Align the callout to the right side of the container */
+
+  margin-left: auto;
+
+  margin-right: 0;
+
+ 
+
+  /* Style or move the side bar */
+
+
+ border-left: none !important;         
+ border-inline-start: none !important; 
+ border: none !important;              
+
+ 
+
+ 
+
+  /* Add spacing and padding for better layout */
+
+  padding: 1em;
+
+  margin-top: 1em;
+
+  margin-bottom: 1em;
+
+  border-radius: 6px; /* optional: rounded corners */
+
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05); /* optional: subtle shadow */
+
+}
+
+ 
+
+/* Optional: Hide default callout icon */
+
+.callout-note .callout-icon {
+
+  display: none;
+
+}
+
+ 
+
+/* Optional: Adjust callout heading style */
+
+.callout-note .callout-title {
+
+  font-weight: bold;
+
+  font-size: 1.1em;
+
+}
