@@ -12,7 +12,7 @@ format:
 <br>
 <br>
 <br>
-Below you will find a visual and written description of the pagoda as a metaphor for mental wellness. We invite you to read through the text and reflect on each component using our guiding questions.
+Below you will find a visual and written description of the pagoda as a metaphor for [mental wellness](https://en.wikipedia.org). We invite you to read through the text and reflect on each component using our guiding questions.
 
 
 ::: cr-section
@@ -27,11 +27,11 @@ Self-Identity</strong></span>
 
 :::{focus-on="cr-image1"}
 
-*Ancient Buildings*: The central pillar (shinbashira) in pagodas acts as a stabilising "spine," helping the structure distribute seismic forces and maintain balance. 
+*Ancient Buildings*: The central pillar [(shinbashira)](https://en.wikipedia.org) in pagodas acts as a stabilising "spine," helping the structure distribute seismic forces and maintain balance. 
 
 <br>
 
-*Human Experience*: A strong sense of core values, personal identity, or self-understanding can serve as the central "pillar" in a person’s life, grounding them even when mood fluctuations shake their emotional landscape. Just like the central pillar supports the building, an individual’s self-awareness and deeply held values can provide stability during manic episodes, preventing total collapse into harmful behaviours. 
+*Human Experience*: A strong sense of core values, personal identity, or self-understanding can serve as the central "pillar" in a person’s life, grounding them even when mood fluctuations shake their emotional landscape. Just like the central pillar supports the building, an individual’s self-awareness and deeply held values can provide stability during [manic episodes](https://en.wikipedia.org), preventing total collapse into harmful behaviours. 
 :::
 
 ::: {#cr-image1}
@@ -44,7 +44,7 @@ Self-Identity</strong></span>
  @cr-questions1]{highlight="1,3"}
 
 ::: {#cr-questions1}
-1.	What are three core values that are most important to you, and how do they guide your decisions?
+1.	What are three [core values](https://en.wikipedia.org) that are most important to you, and how do they guide your decisions?
 2.	How has your sense of identity changed or remained the same over the past year?
 3.	What challenges have made you question your values or identity, and how have you responded to them?
 
@@ -61,11 +61,11 @@ Relationships</strong></span>
 
 :::{focus-on="cr-image2"}
 
-*Ancient Buildings*: The joints in ancient wooden buildings are designed to be flexible, allowing the building to move and sway without snapping or breaking. This flexibility is crucial for absorbing seismic shocks. 
+*Ancient Buildings*: The [joints](https://en.wikipedia.org) in ancient wooden buildings are designed to be flexible, allowing the building to move and sway without snapping or breaking. This flexibility is crucial for absorbing seismic shocks. 
 
 <br>
 
-*Human Experience*: Healthy, flexible relationships that allow for emotional movement and adaptation without rigid expectations can absorb the shocks of mood episodes. Supportive relationships can bend, adjust, and accommodate mood fluctuations without breaking under the strain. These relationships, like family or close friends, provide support while giving space for individual emotional experience.
+*Human Experience*: Healthy, flexible relationships that allow for emotional movement and adaptation without rigid expectations can absorb the shocks of mood episodes. [Supportive relationships](https://en.wikipedia.org) can bend, adjust, and accommodate mood fluctuations without breaking under the strain. These relationships, like family or close friends, provide support while giving space for individual emotional experience.
 :::
 
 ::: {#cr-image2}
@@ -79,7 +79,7 @@ Relationships</strong></span>
 
 ::: {#cr-questions2}
 1.	Who are the key people in your life who provide support, and how do they help you during challenging times?
-2.	How do you maintain healthy boundaries in relationships while adapting to new social environments?
+2.	How do you maintain [healthy boundaries](https://en.wikipedia.org) in relationships while adapting to new social environments?
 3.	What strategies can you use to build new supportive connections while keeping existing relationships strong?
 
 :::
@@ -96,7 +96,7 @@ and Crisis Prevention</strong></span>
 
 :::{focus-on="cr-image3"}
 
-*Ancient Buildings*: The multi-tiered roofs in pagodas help distribute the forces of an earthquake, acting like shock absorbers that slow down and spread out the shaking.
+*Ancient Buildings*: The [multi-tiered roofs](https://en.wikipedia.org) in pagodas help distribute the forces of an earthquake, acting like shock absorbers that slow down and spread out the shaking.
 
 <br>
 
@@ -128,7 +128,7 @@ Balanced Lifestyle</strong></span>
 
 :::{focus-on="cr-image4"}
 
-*Ancient Buildings*: The symmetrical and simple designs of ancient buildings help distribute stress evenly during an earthquake, reducing the concentration of forces on any one part of the structure.
+*Ancient Buildings*: The [symmetrical and simple designs](https://en.wikipedia.org) of ancient buildings help distribute stress evenly during an earthquake, reducing the concentration of forces on any one part of the structure.
 
 <br>
 
@@ -145,7 +145,7 @@ Balanced Lifestyle</strong></span>
  @cr-questions4]{highlight="1,3"}
 
 ::: {#cr-questions4}
-1.	How do you currently distribute your time between work, social life, self-care, and relaxation?
+1.	How do you currently distribute your time between work, social life, [self-care](https://en.wikipedia.org), and relaxation?
 2.	What aspects of your routine feel unbalanced, and what small changes could help restore stability?
 3.	If stress levels were rising, what would be the first area in your life that you would adjust to maintain balance?
 :::
@@ -161,11 +161,11 @@ Coping Skills</strong></span>
 
 :::{focus-on="cr-image5"}
 
-*Ancient Buildings*: The flexible wooden structure of Japanese buildings allows them to bend and absorb energy without breaking under stress.
+*Ancient Buildings*: The [flexible wooden structure](https://en.wikipedia.org) of Japanese buildings allows them to bend and absorb energy without breaking under stress.
 
 <br>
 
-*Human Experience*: Emotional adaptability and well-developed coping skills (e.g., mindfulness, emotional regulation techniques, therapy) function in a similar way, allowing a person to "bend" with emotional highs and lows without breaking down. These coping skills help an individual manage mood swings in a healthy way, reducing the impact of manic episodes. 
+*Human Experience*: Emotional adaptability and well-developed [coping skills](https://en.wikipedia.org) (e.g., mindfulness, emotional regulation techniques, therapy) function in a similar way, allowing a person to "bend" with emotional highs and lows without breaking down. These coping skills help an individual manage mood swings in a healthy way, reducing the impact of manic episodes. 
 :::
 
 ::: {#cr-image5}
@@ -194,7 +194,7 @@ Routine and Stability </strong></span>
 
 :::{focus-on="cr-image6"}
 
-*Ancient Buildings*: In some ancient structures, the foundation stones allow the building to "float" above the ground, moving slightly with the earthquake rather than fighting against it. This helps absorb the shock and prevent the structure from crumbling.
+*Ancient Buildings*: In some ancient structures, the [foundation stones](https://en.wikipedia.org) allow the building to "float" above the ground, moving slightly with the earthquake rather than fighting against it. This helps absorb the shock and prevent the structure from crumbling.
 
 <br>
 
