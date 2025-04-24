@@ -12,6 +12,8 @@ People living with bipolar face significant risks of engaging in unpredictable, 
 
 This is why we are working on the Personalised Recovery and Resilience Kit (PeRRK), a participatory approach inspired by the precision and wisdom of Japanese craftsmanship. It encapsulates the transformative potential of human-AI collaboration. You may find that Japanese [metaphors](https://en.wikipedia.org/wiki/Metaphor) work well for you, but there are alternative metaphors that will work with the structure of the kit; feel free to personalise your individual kit by creating your own personal metaphor. However, for the purpose of creating a general outline for this kit, we are using the structurally supportive and sound principles of Japanese craftmanship. Below you will find the kit, where you can click on each section to learn more about the different elements.
 
+Access the PeRRK in *Spanish* [here](kit_spanish.html). 
+
 ------------------------------------------------------------------------
 **The Kit**
 
@@ -23,7 +25,7 @@ This is why we are working on the Personalised Recovery and Resilience Kit (PeRR
 
 **Why This Matters**
 
-Bipolar Disorder is a complex mental health condition that profoundly impacts those living with it, as well as their families and communities. The UK's NHS provides [more information](https://www.nhs.uk/mental-health/conditions/bipolar-disorder/) about the condition. Despite advancements in treatments and technologies, managing bipolar often requires more than clinical interventions. It demands empathy, learning from lived experience, self-management, creativity, and adaptability. These human qualities remain irreplaceable, even in an era of sophisticated technology.
+Bipolar is a complex mental health condition that profoundly impacts those living with it, as well as their families and communities. The UK's NHS provides [more information](https://www.nhs.uk/mental-health/conditions/bipolar-disorder/) about the condition. Despite advancements in treatments and technologies, managing bipolar often requires more than clinical interventions. It demands empathy, learning from lived experience, self-management, creativity, and adaptability. These human qualities remain irreplaceable, even in an era of sophisticated technology.
 
 By bringing together the lived experiences of individuals with bipolar, insights from caregivers and mental health professionals, and technological resources, we are developing a kit that empowers people to navigate their unique journeys with greater confidence and support. By helping people to live in recovery, they will be empowered to live the lives they want to live.
 
