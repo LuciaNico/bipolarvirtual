@@ -1,5 +1,5 @@
 ---
-title: "Personalised Recovery and Resilience Kit (PeRRK) - Portuguese Version"
+title: "Personalised Recovery and Resilience Kit (PeRRK) - Italian Version"
 # format: 
 #  html:
 #    css:
@@ -9,7 +9,7 @@ title: "Personalised Recovery and Resilience Kit (PeRRK) - Portuguese Version"
 ------------------------------------------------------------------------
 
 
-**The Kit en Italiano**
+**Il Kit in Italiano**
 
 ::: panel-tabset
 

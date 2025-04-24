@@ -9,7 +9,7 @@ title: "Personalised Recovery and Resilience Kit (PeRRK) - Portuguese Version"
 ------------------------------------------------------------------------
 
 
-**The Kit en Português**
+**O Kit in Portuguese**
 
 ::: panel-tabset
 
@@ -17,7 +17,7 @@ title: "Personalised Recovery and Resilience Kit (PeRRK) - Portuguese Version"
 
 ![](images/wtm_transparent.png){width="80" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
 
-**¿Por que isso é importante??**
+**¿Por que isso é importante?**
 
 A Bipolaridade é um problema de saúde mental que tem um impacto profundo na vida de quem o vivencia, afetando também familiares, amigos e a comunidade. Apesar dos avanços terapêuticos e do uso de novas tecnologias, lidar com a Bipolaridade exige mais do que intervenções clínicas: requer empatia, compartilhamento de experiências de vida, criatividade e capacidade de adaptação. Essas qualidades humanas continuam sendo insubstituíveis, mesmo nesta era de tecnologia avançada.
 
