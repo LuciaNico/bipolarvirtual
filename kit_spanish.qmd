@@ -1,0 +1,121 @@
+---
+title: "Personalised Recovery and Resilience Kit (PeRRK) - Spanish Version"
+# format: 
+#  html:
+#    css:
+#      - styles.css
+#      - readability.css
+---
+------------------------------------------------------------------------
+
+
+**The Kit en Español**
+
+::: panel-tabset
+
+## ![](images/wtm_transparent.png){width=20px style="vertical-align:middle;"} ¿Por qué es importante?
+
+![](images/wtm_transparent.png){width="80" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
+
+**¿Por qué es importante?**
+
+La Bipolaridad es una problema de salud mental que tiene un profundo impacto en quienes lo viven, repercutiendo también en familiares, amigos y en la comunidad. A pesar de los avances terapéuticos y el uso de nuevas tecnologías, manejar la Bipolaridad requiere más que de intervenciones clínicas: exige empatía, compartir experiencias de vida, creatividad y capacidad de adaptación. Estas cualidades humanas siguen siendo irremplazables, incluso en este tiempo de avanzada tecnología.
+
+Al reunir el conocimiento fruto de las experiencias de vida de personas con bipolaridad, las perspectivas de familiares y profesionales de la salud mental, y recursos tecnológicos avanzados, estamos construyendo un marco que anima a las personas para transitar sus trayectorias personales con mayor confianza y apoyo.
+
+## ![](images/earthquakemetaphor_transparent.png){width=30px style="vertical-align:middle;"} La Metáfora del Terremoto
+
+![](images/earthquakemetaphor_transparent.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
+
+***La Metáfora del Terremoto***
+
+Vivir con Bipolaridad puede sentirse como transitar un terreno lleno de terremotos repentinos e impredecibles. Los altibajos en el humor, como si fueran sismos y réplicas, pueden alterar la vida cotidiana y dejar a las personas y sus redes de apoyo tratando de recuperar la estabilidad perdida. ¿Cómo podemos prepararnos para esa incertidumbre al mismo tiempo que fomentar la resiliencia y la recuperación?
+
+
+![](images/ggpagoda6.png){width=60px style="display:block; margin-left:auto; margin-right:auto;"}
+
+El PeRRK se inspira en el diseño antisísmico de las pagodas japonesas, estructuras que han resistido siglos de actividad sísmica. Estas pagodas muestran flexibilidad y fortaleza, utilizando principios como uniones entrelazadas y la presencia de un pilar central que absorbe los impactos mientras mantiene la estabilidad.
+
+En el contexto de la Bipolaridad, la pagoda se convierte en una metáfora de la resiliencia: un punto de referencia donde cada “nivel” representa un aspecto vital del bienestar, desde la salud física y emocional hasta el apoyo social y las estrategias de afrontamiento. 
+Las experiencias humanas, combinadas con la precisión de la inteligencia artificial, pueden ayudar a crear herramientas que se alinean con las necesidades de cada persona, construyendo un sistema que se adapta a los desafíos de la vida, así como la pagoda se adapta a las fuerzas de la naturaleza, [click here](pagoda_closeread.html).
+
+## ![](images/craftingresilience_transparent.png){width=25px style="vertical-align:middle;"} Forjando Resiliencia
+
+![](images/craftingresilience_transparent.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"} 
+
+***Forjando Resiliencia***
+
+La resiliencia no se construye de un día para el otro, resulta de un proceso continuo de aprendizaje, adaptación y crecimiento. En la artesanía japonesa, principios como *kaizen* (mejora continua) y *wabi-sabi* (aceptación de la imperfección) ofrecen una sabiduría que resuena profundamente en el ámbito de la salud mental.
+
+*Kaizen* nos enseña a valorar el progreso constante y gradual, en lugar de buscar la perfección inmediata. En salud mental, esto puede traducirse en celebrar logros pequeños, como mantener una rutina diaria o pedir apoyo, ya que estos pasos sientan las bases para un bienestar duradero.
+
+*Wabi-sabi*, por otro lado, nos invita a encontrar la belleza en la imperfección y la transitoriedad. Se trata de aceptar que la vida, la recuperación y nuestras propias estrategias de afrontamiento no siempre serán perfectas—y eso está bien. Para alguien que vive con Trastorno Bipolar, esto puede significar asumir los retrocesos como oportunidades para aprender y crecer.
+
+Por ejemplo, una persona que participa en nuestro proyecto describió su camino de recuperación como una colcha de retazos: cada pieza es imperfecta, pero contribuye a un todo único y significativo. Esa colcha, al igual que la resiliencia, se fortalece con el tiempo, a través del cuidado y el esfuerzo consciente. 
+
+
+## ![](images/relationship_transparent.png){width=30px style="vertical-align:middle;"} La Relación Maestro-Aprendiz
+
+![](images/relationship_transparent.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"} 
+
+***La Relación Maestro-Aprendiz***
+
+En la artesanía, la relación entre maestro y aprendiz es una piedra fundamental del aprendizaje y el crecimiento. El maestro transmite no solo habilidades, sino también valores como la paciencia, la precisión y la dedicación. Este mismo principio cumple un rol fundamental en el cuidado de la salud mental y en nuestro proyecto PeRRK.
+
+El acompañamiento fomenta la colaboración y la confianza entre personas con Bipolaridad, familiares y profesionales de la salud mental. Cada uno aporta un saber distinto: experiencias de vida, cuidado compasivo o conocimiento clínico. Juntos, crean herramientas y estrategias adaptadas a las necesidades individuales, combinando la sabiduría de cada perspectiva.
+
+Por ejemplo, una persona compartió cómo un compañero de su grupo de apoyo—alguien que también experimenta los desafíos de la Bipolaridad, le ayudó a atravesar momentos difíciles. A través de consejos prácticos y apoyo emocional, el mentor encarnó la resiliencia y la autocompasión, inspirándola para afrontar su propio camino con mayor confianza.
+
+El acompañamiento genera un efecto multiplicador, empoderando tanto a quien guía como a quien recibe el apoyo, y enriqueciendo a toda la comunidad. Este espíritu colaborativo es el motor de nuestro enfoque de creación compartida, asegurando que el PeRRK refleja los desafíos y soluciones del mundo real.
+
+## ![](images/complexity_transparent.png){width=30px style="vertical-align:middle;"} Desarmando la Complejidad
+
+![](images/complexity_transparent.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"} 
+***Desarmando la Complejidad***
+
+Los desafíos complejos, como manejar la Bipolaridad, pueden resultar abrumadores. Pero así como los artesanos enfrentan diseños intrincados dividiéndolos en pasos manejables, nuestro enfoque en el PeRRK adopta una estrategia gradual y participativa para diseñar soluciones.
+
+Esto implica trabajar de forma colaborativa, paso a paso, para crear herramientas que sean significativas, prácticas y fáciles de usar. Las personas que participan del programa, individuos con TB, familiares-amigos y profesionales, aportan sus ideas en distintas etapas, lo que garantiza que el proceso no sea apresurado ni agobiante. Cada pequeño paso contribuye a construir un marco coherente que refleja la experiencia cotidiana de vivir y manejar la Bipolaridad.
+
+Este respeto por la individualidad fomenta un sentido de pertenencia y empoderamiento, lo que contribuye a mejores resultados y mayor resiliencia.
+
+## ![](images/solutions_transparent.png){width=30px style="vertical-align:middle;"} Soluciones a Medida: Respeto por la Individualidad
+
+![](images/solutions_transparent.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"} 
+***Soluciones a Medida: Respeto por la Individualidad***
+
+No hay dos caminos iguales en la experiencia de la Bipolaridad, y por eso el PeRRK está diseñado en base al respeto por la individualidad como principio central. Inspirado en la artesanía, que valora las propiedades únicas de cada material, el PeRRK adapta sus herramientas para responder a las necesidades, fortalezas y vulnerabilidades específicas de cada persona.
+
+Guiado por inteligencia artificial, el kit organiza de forma dinámica los aportes de individuos, familiares-amigos y profesionales en un marco personalizado y con sentido. 
+Por ejemplo, una persona compartió cómo su plan personalizado incluía elementos sensoriales calmantes para momentos de mucha angustia e instrucciones para reflexionar sobre su progreso a través de la escritura. Estas estrategias diseñadas a medida le ayudaron a sentirse más en control y acompañada en su camino personal.
+
+La personalización, facilitada por la combinación de saberes humanos e inteligencia artificial, asegura que el PeRRK se adapte a las necesidades cambiantes de cada individuo. Este respeto por la individualidad fomenta un sentido de pertenencia y empoderamiento, lo que contribuye a mejores resultados y mayor resiliencia.
+
+## ![](images/preparedness_transparent.png){width=30px style="vertical-align:middle;"} Preparación para Situaciones Extremas
+
+![](images/preparedness_transparent.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"} 
+
+***Preparación para Situaciones Extremas***
+
+En momentos de crisis, estar preparado lo es todo. Inspirado en los principios de *mottainai* (eficiencia) y *waza* (maestría a través de la repetición), el PeRRK ofrece herramientas diseñadas para responder de forma rápida y eficaz ante situaciones de crisis en salud mental.
+
+*Mottainai* nos enseña a centrarnos en lo esencial, usar los recursos con sentido para estabilizar una situación sin generar carga adicional. Esto se traduce en intervenciones simples y eficientes, como un ejercicio de anclaje sensorial o una frase calmante que pueda utilizarse de inmediato cuando las emociones se intensifican.
+
+A su vez, *waza* resalta la importancia de dominar ciertas técnicas mediante la práctica constante, hasta que se vuelvan automáticas. Por ejemplo, una persona contó cómo practicar respiración pausada a diario le permitió recurrir a esa técnica de forma instintiva durante un momento de ansiedad extrema, evitando que la situación se agravara y recuperando la calma.
+
+El PeRRK incorpora estos principios mediante herramientas de acceso rápido como ejercicios de respiración, técnicas de anclaje y elementos sensoriales. Estas intervenciones están pensadas para ofrecer alivio inmediato y generar un espacio para la recuperación y la reflexión.
+
+## ![](images/strength_transparent.png){width=30px style="vertical-align:middle;"} Encontrar Fortaleza en la Reparación
+
+![](images/strength_transparent.png){width="90" style="float: left; margin-right: 1em; margin-bottom: 0.5em;"} 
+***Encontrar Fortaleza en la Reparación***
+
+Los desafíos de la vida pueden hacernos sentir quebrados, pero el arte japonés del *kintsugi* nos recuerda que reparar también puede dar lugar a algo aún más bello.  
+
+*Kintsugi*, o “reparar con oro”, consiste en arreglar cerámicas rotas con metales preciosos, resaltando las grietas en lugar de ocultarlas. ¿El resultado? Una pieza única y resistente que cuenta su historia a través de sus cicatrices.
+
+En salud mental y recuperación, el *kintsugi* es una metáfora poderosa para encontrar fortaleza en las dificultades. El PeRRK adopta esta filosofía, alentando a las personas a no ver los desafíos como fracasos, sino como oportunidades de crecimiento y transformación.
+
+Recuperarse no es borrar lo que se rompió, sino abrazar las imperfecciones y salir de la experiencia más fuerte, y siendo auténticamente tú.
+:::
+
