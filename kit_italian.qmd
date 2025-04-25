@@ -21,7 +21,7 @@ title: "Personalised Recovery and Resilience Kit (PeRRK) - Italian Version"
 
 La Bipolarità è un problema di salute mentale che ha un impatto profondo su chi lo vive, influenzando anche familiari, amici e la comunità. Nonostante i progressi terapeutici e l’uso di nuove tecnologie, gestire la Bipolarità richiede più delle sole cure cliniche: richiede empatia, condivisione di esperienze di vita, creatività, e capacità di adattamento. Queste qualità umane restano insostituibili, anche in un’epoca di avanzata tecnologia.
 
-Riunendo la conoscenza che nasce dall’esperienza di vita delle persone con Bipolarità, le prospettive di familiari e professionisti della salute mentale, e risorse tecnologiche avanzate, stiamo costruendo una cornice che incoraggia le persone a percorrere il proprio cammino con maggiore fiducia e supporto.
+Riunendo la conoscenza che nasce dall’esperienza di vita delle persone con Bipolarità, le prospettive di familiari e professionisti della salute mentale, e risorse tecnologiche avanzate, stiamo costruendo un modello che incoraggia le persone a percorrere il proprio cammino con maggiore fiducia e supporto.
 
 ## ![](images/earthquakemetaphor_transparent.png){width=30px style="vertical-align:middle;"} La Metafora del Terremoto
 
@@ -36,7 +36,7 @@ Vivere con il Disturbo Bipolare (DB) può sembrare come attraversare un terreno 
 
 Il PeRRK si ispira alla progettazione antisismica delle pagode giapponesi, strutture che hanno resistito a secoli di attività sismica. Queste pagode dimostrano flessibilità e forza, utilizzando principi come giunti intrecciati e la presenza di un pilastro centrale che assorbe gli urti mantenendo la stabilità.
 
-Nel contesto de la bipolarità, la pagoda diventa una metafora della resilienza: un punto di riferimento in cui ogni “livello” rappresenta un aspetto essenziale del benessere, dalla salute fisica ed emotiva al sostegno sociale e alle strategie di coping.
+Nel contesto della bipolarità, la pagoda diventa una metafora della resilienza: un punto di riferimento in cui ogni “livello” rappresenta un aspetto essenziale del benessere, dalla salute fisica ed emotiva al sostegno sociale e alle strategie di coping.
 Le esperienze umane, combinate con la precisione dell’intelligenza artificiale, possono contribuire a creare strumenti che rispondano ai bisogni di ogni persona, costruendo un sistema capace di adattarsi alle sfide della vita, così come la pagoda si adatta alle forze della natura, [click here](pagoda_closeread.html).
 
 ## ![](images/craftingresilience_transparent.png){width=25px style="vertical-align:middle;"} Forgiare la Resilienza
