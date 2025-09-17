@@ -1,10 +1,10 @@
 ---
 title: "PeRRK for Parenting"
-# format: 
-#  html:
-#    css:
-#      - styles.css
-#      - readability.css
+format: 
+  html:
+    css:
+      - styles.css
+      - readability.css
 ---
 
 **Parenting for Strength and Stability: Building Everyday Resilience**
@@ -43,4 +43,4 @@ Parenting also changes as children grow. What helps a toddler may not help an ad
 
 In high-stress moments—during a meltdown, a sleepless night, or a mental health crisis—being prepared helps. Noticing early signs, using calming techniques, and knowing when to ask for help can reduce harm and build trust. These are not extras. They are basic supports every caregiver should have.
 
-Most of all, recovery in parenting is not about returning to perfection. It means recognising the difficulties and making them part of the family’s story. Cracks may remain, but they can hold. What matters is that families grow in understanding, build trust, and develop tools to face what comes next. Parenting is full of aftershocks. But with the right supports—emotional, practical, and collective—families can stay connected through it all.
+Most of all, recovery in parenting is not about returning to perfection. It means recognising the difficulties and making them part of the family’s story. What matters is that families grow in understanding, build trust, and develop tools to face what comes next. Parenting is full of aftershocks. But with the right supports—emotional, practical, and collective—families can stay connected through it all.
