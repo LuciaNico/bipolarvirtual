@@ -3,7 +3,7 @@ title: "Resources - Virtual Allotment"
 editor: visual
 ---
 
-At Bipolar Risk, we're excited to introduce an innovative concept — a "phygital" collaborative space that combines the best of physical and online environments. Inspired by community allotments and gardens, we're creating a dynamic platform for resource exchange and community engagement: **The Virtual Allotment**.
+At Bipolar Risk, we're excited to introduce an innovative concept — a "phygital" collaborative space that combines the best of physical and online environments. Inspired by community allotments and gardens, we're creating a dynamic platform for resource exchange and community engagement: [**The Virtual Allotment**](https://darcy-ununited-pattie.ngrok-free.dev).
 
 The Virtual Allotment builds on the principles of [The Personalised Recovery and Resilience Kit (PeRRK)](#0). Within this space, you can also explore the visual and written depiction of the [pagoda, used here as a metaphor for mental wellness](#0), as well the [PeRRK for Parenting](#0), and the [PeRRK for University Students](#0).
 
